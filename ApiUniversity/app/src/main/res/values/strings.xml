@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Api University</string>
+    <string-array name="countries_array">
+        <item>Morocco</item>
+        <item>Qatar</item>
+        <item>Saudi Arabia</item>
+    </string-array>
+</resources>
